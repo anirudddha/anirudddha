@@ -8,7 +8,8 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-pawar-067740215/)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/blackperl06)
-  [![Codeforces](https://cf.leedev.cn/rating?username=BlackPerl06)](https://codeforces.com/profile/BlackPerl06)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&logo=codeforces&label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=BlackPerl06)](https://codeforces.com/profile/BlackPerl06)
+
 
 </div>
 
@@ -39,7 +40,8 @@
 <div align="center">
   
   [![LeetCode](https://leetcard.jacoblin.cool/blackperl06?ext=contest)](https://leetcode.com/blackperl06)
-  [![Codeforces](https://cf.leedev.cn/rating?username=BlackPerl06)](https://codeforces.com/profile/BlackPerl06)
+    [![Codeforces](https://img.shields.io/badge/Codeforces-BlackPerl06-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/BlackPerl06)
+
 
 </div>
 
